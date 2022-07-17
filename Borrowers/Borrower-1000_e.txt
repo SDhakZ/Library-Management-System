@@ -1,0 +1,13 @@
+
+--------------------------------Receipt--------------------------------
+Borrowers Name: e e
+Transaction ID:1000
+Date Borrowed: 09/07/21    Time:17:20:15
+
+S.N 1. 
+BookName:Sidemen Book
+Author:The Sidemen
+Price: NRs1800
+
+				Total: NRs1800
+----------------------------------------------------------------------

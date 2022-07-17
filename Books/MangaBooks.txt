@@ -1,0 +1,5 @@
+One Piece,Eiichiro Oda,50,NRs200
+Naruto,Masashi Kishimoto,20,NRs100
+Demon Slayer,Koyoharu Gotouge,10,NRs300
+Jujutsu Kaisen,Gege Akutami,15,NRs250
+Death Note,Takeshi Obata,20,NRs400

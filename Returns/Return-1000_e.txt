@@ -1,0 +1,15 @@
+
+----------------------------Return receipt----------------------------
+Returned By: e
+Transaction ID: 1000
+Date: 09/07/21    Time:17:20:25
+
+
+S.N:1
+Book Name:Sidemen Book
+Price: NRs1800
+
+			Sub-Total:1800.0
+			Fine:NRs100
+			Total After Fine: Nrs1900.0
+----------------------------------------------------------------------

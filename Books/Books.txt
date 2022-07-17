@@ -1,0 +1,5 @@
+Sidemen Book,The Sidemen,9,NRs1800
+Diary of a Wimpy Kid,Jeff Kinney,10,NRs900
+I Am Zlatan Ibrahimovic,Zlatan Ibrahimovic & David Lagercrantz,10,NRs1200
+The Four Agreements,Don Miguel Ruiz,19,NRs600
+Dune,Frank Herbert,0,NRsrs700

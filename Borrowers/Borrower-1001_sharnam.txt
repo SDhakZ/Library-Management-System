@@ -1,0 +1,13 @@
+
+--------------------------------Receipt--------------------------------
+Borrowers Name: sharnam dhakhwa
+Transaction ID:1001
+Date Borrowed: 09/15/21    Time:09:51:10
+
+S.N 1. 
+BookName:Sidemen Book
+Author:The Sidemen
+Price: NRs1800
+
+				Total: NRs1800
+----------------------------------------------------------------------
